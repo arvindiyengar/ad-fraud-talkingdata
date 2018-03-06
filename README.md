@@ -1,7 +1,9 @@
 ad-fraud-talkingdata
 ==============================
 
-A short description of the project.
+This repository is for Kaggle Challenge - TalkingData AdTracking Fraud Detection Challenge Can you detect fraudulent click traffic for mobile app ads? 
+
+Link : https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection
 
 Project Organization
 ------------
@@ -53,4 +55,3 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
